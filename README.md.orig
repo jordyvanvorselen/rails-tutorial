@@ -1,6 +1,4 @@
-# rails-tutorial
-Following the Ruby on Rails Tutorial - https://www.railstutorial.org/
-
+<<<<<<< HEAD
 # README
 
 This README would normally document whatever steps are necessary to get the
@@ -25,3 +23,7 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
+=======
+# rails-tutorial
+Following the Ruby on Rails Tutorial - https://www.railstutorial.org/
+>>>>>>> 9e795347521850b2534a999d3f0c6c639dc78256
